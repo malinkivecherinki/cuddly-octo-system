@@ -21,3 +21,9 @@ class Calculator {
 }
 
 module.exports = Calculator;
+
+
+// Update 16
+function newFunction16() {
+    return 16;
+}
