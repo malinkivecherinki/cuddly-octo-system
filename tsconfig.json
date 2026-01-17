@@ -7,6 +7,11 @@
     "strict": true,
     "esModuleInterop": true
   },
-  "include": ["src/**/*"],
-  "exclude": ["node_modules"]
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "update_11": "2026-01-11T17:07:18.785513"
 }
